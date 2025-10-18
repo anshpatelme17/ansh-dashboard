@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **UX Designing**
 
-- 💬 Ask me about **C, Python, HTML, CSS**
+- 💬 Ask me about **C, Python, HTML, CSS, MySQL**
 
 - 📫 How to reach me **anshpatelme17@gmail.com**
 
